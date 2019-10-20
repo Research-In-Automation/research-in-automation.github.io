@@ -1,14 +1,16 @@
-# Default starter for Gridsome
+# Blog
 
-This is the project you get when you run `gridsome create new-project`.
+# Install and run
 
-### 1. Install Gridsome CLI tool if you don't have
+This project using [gridsome](https://gridsome.org/), you may need [@gridsome/cli](https://www.npmjs.com/package/@gridsome/cli)
 
-`npm install --global @gridsome/cli`
+```bash
+$ yarn
+$ yarn run develop
+```
 
-### 2. Create a Gridsome project
+Build
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+```bash
+$ yarn run build
+```
