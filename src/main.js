@@ -3,18 +3,9 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import '../static/css/normalize.css'
+import 'typeface-playfair-display'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
-
-  head.link.push({
-    rel: 'stylesheet',
-    herf: 'https://fonts.googleapis.com/css?family=Playfair+Display&display=swap'
-  })
-
-  head.style.push({
-    type: 'text/css',
-    cssText: "body { font-family: 'Playfair Display', serif; }"
-  })
 }

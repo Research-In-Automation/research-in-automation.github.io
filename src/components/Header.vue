@@ -6,6 +6,7 @@
 
 <style>
 .header {
+  font-family: 'Playfair Display', serif;
   position: absolute;
   top: 0;
   margin: 20px 0px;

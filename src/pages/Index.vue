@@ -4,7 +4,7 @@
     <section class="description">
       <p>
         Hi all!, we here to automate something maybe on your daily life.
-        We are OpenSource Company that aim to make easy all your daily life activity
+        We are Open Source Company that aim to make easy all your daily life activity
       </p>
     </section>
     <section>

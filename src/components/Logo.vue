@@ -7,7 +7,8 @@
 
 <style scoped>
 .logo {
-  font-size: 3rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 2.8rem;
   font-weight: 700;
   text-align: center;
   line-height: 1;
