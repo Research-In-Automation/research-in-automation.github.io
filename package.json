@@ -1,0 +1,14 @@
+{
+  "name": "research-in-automation-blog",
+  "private": true,
+  "license": "MIT",
+  "author": "mandaputra8@gmail.com",
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  }
+}
