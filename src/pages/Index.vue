@@ -4,11 +4,12 @@
     <section class="description">
       <p>
         Hi all!, we here to automate something maybe on your daily life.
-        We are Open Source Company that aim to make easy all your daily life activity
+        We are Open Source group that aim to make easy all your daily life activity
       </p>
+      <a class="social-link" href="https://github.com/Research-in-Automation">Github</a>
     </section>
     <section>
-      <g-link to="/about">read more...</g-link>
+      <g-link to="/about">About Us</g-link>
     </section>
   </Layout>
 </template>
@@ -30,5 +31,9 @@ export default {
 .description {
   text-align: center;
   padding: 0 10px;
+}
+
+.social-link {
+  margin: .5rem 0;
 }
 </style>

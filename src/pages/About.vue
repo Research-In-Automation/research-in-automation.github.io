@@ -5,7 +5,7 @@
         <b>About us ...</b>
       </p>
       <p>
-        This Company aim to be an <b>Open Source company</b>.
+        This Company aim to be an <b>Open Source group</b>.
         We aim to help people by creating software / hardware that can make
         easy any people, company, or groups to do on their daily activity.
         We make things from Web, iOT, and Native App Platform
